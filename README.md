@@ -2,6 +2,8 @@
 
 > sell app
 
+> 项目总结： https://zhuanlan.zhihu.com/p/28049753
+
 ## Build Setup
 
 ``` bash
